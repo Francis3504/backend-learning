@@ -24,7 +24,7 @@ Concepts Practiced
 
 
 
-C. FsstAPI Playground
+C. FastAPI Playground
 Small scripts and experiments used to understand FastAPI features.
 
 Concepts Practiced.
